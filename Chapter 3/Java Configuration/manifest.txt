@@ -1,0 +1,31 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0300\0304 Java Configuration\Java Configuration
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Book
+   │   │   │               └DataConfiguration
+   │   │   └[resources]
+   │   │       │
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├manfiest
+   └pom

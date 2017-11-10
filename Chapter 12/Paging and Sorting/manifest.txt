@@ -1,0 +1,82 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\1200\1206 Paging and Sorting\Paging and Sorting
+   │
+   ├[spring-data-course]
+   │   │
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.jdt.core
+   │   │   ├org.eclipse.m2e.core
+   │   │   ├org.eclipse.wst.common
+   │   │   └org.eclipse.wst.common.project.facet.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   ├[com]
+   │   │   │   │   │   │
+   │   │   │   │   │   └[oreilly]
+   │   │   │   │   │       │
+   │   │   │   │   │       └[sdata]
+   │   │   │   │   │           │
+   │   │   │   │   │           ├Application
+   │   │   │   │   │           ├Author
+   │   │   │   │   │           ├Book
+   │   │   │   │   │           ├BookRepository
+   │   │   │   │   │           └BookService
+   │   │   │   │   └[META-INF]
+   │   │   │   │       │
+   │   │   │   │       └MANIFEST
+   │   │   │   └[resources]
+   │   │   │       │
+   │   │   │       ├application-context
+   │   │   │       ├init
+   │   │   │       └log4j
+   │   │   └[test]
+   │   │       │
+   │   │       ├[java]
+   │   │       └[resources]
+   │   ├
+   │   ├
+   │   ├
+   │   └pom
+   └[spring-data-rest]
+       │
+       ├[.settings]
+       │   │
+       │   ├
+       │   ├org.eclipse.jdt.core
+       │   ├org.eclipse.m2e.core
+       │   ├org.eclipse.wst.common
+       │   ├org.eclipse.wst.common.project.facet.core
+       │   ├org.eclipse.wst.jsdt.ui.superType
+       │   ├org.eclipse.wst.jsdt.ui.superType
+       │   └org.eclipse.wst.validation
+       ├[bin]
+       ├[src]
+       │   │
+       │   └[main]
+       │       │
+       │       ├[java]
+       │       │   │
+       │       │   └[com]
+       │       │       │
+       │       │       └[oreilly]
+       │       │           │
+       │       │           └[sdata]
+       │       │               │
+       │       │               └CustomRepositoryRestConfigurerAdapter
+       │       ├[resources]
+       │       └[webapp]
+       │           │
+       │           └[WEB-INF]
+       │               │
+       │               ├[spring]
+       │               │   │
+       │               │   └root-context
+       │               └web
+       ├
+       ├
+       ├
+       └pom

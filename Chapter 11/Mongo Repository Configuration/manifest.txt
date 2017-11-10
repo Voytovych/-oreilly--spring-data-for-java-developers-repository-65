@@ -1,0 +1,37 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\1100\1102 Mongo Repositories\Mongo Repository Configuration
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Application
+   │   │   │               ├Author
+   │   │   │               ├Book
+   │   │   │               ├BookRepository
+   │   │   │               ├BookUtil
+   │   │   │               └Config
+   │   │   └[resources]
+   │   │       │
+   │   │       ├application-context
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   ├manifest
+   └pom

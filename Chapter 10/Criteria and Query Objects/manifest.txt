@@ -1,0 +1,35 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\1000\1011 Criteria and Query\Criteria and Query Objects
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Application
+   │   │   │               ├Author
+   │   │   │               ├Book
+   │   │   │               └BookUtil
+   │   │   └[resources]
+   │   │       │
+   │   │       ├application-context
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   ├manifest
+   └pom

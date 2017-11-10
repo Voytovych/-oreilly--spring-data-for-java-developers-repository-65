@@ -1,0 +1,38 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0303 Project Setup\Project Setup
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   └[resources]
+   │   │       │
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├[target]
+   │   │
+   │   ├[classes]
+   │   │   │
+   │   │   ├[META-INF]
+   │   │   │   │
+   │   │   │   ├[maven]
+   │   │   │   │   │
+   │   │   │   │   └[com.oreilly.sdata]
+   │   │   │   │       │
+   │   │   │   │       └[spring-data-course]
+   │   │   │   │           │
+   │   │   │   │           ├pom
+   │   │   │   │           └pom
+   │   │   │   └MANIFEST
+   │   │   └log4j
+   │   └[test-classes]
+   ├
+   ├
+   └pom

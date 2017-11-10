@@ -1,0 +1,48 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0800\0804 Paging Integration\Paging Integration
+   │
+   ├[.settings]
+   │   │
+   │   ├
+   │   ├org.eclipse.jdt.core
+   │   ├org.eclipse.m2e.core
+   │   ├org.eclipse.wst.common
+   │   ├org.eclipse.wst.common.project.facet.core
+   │   ├org.eclipse.wst.jsdt.ui.superType
+   │   └org.eclipse.wst.jsdt.ui.superType
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               └BookController
+   │   │   ├[resources]
+   │   │   │   │
+   │   │   │   └log4j
+   │   │   └[webapp]
+   │   │       │
+   │   │       └[WEB-INF]
+   │   │           │
+   │   │           ├[spring]
+   │   │           │   │
+   │   │           │   ├dispatcher-servlet
+   │   │           │   └root-context
+   │   │           ├[views]
+   │   │           │   │
+   │   │           │   ├book
+   │   │           │   └books
+   │   │           └web
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   └pom

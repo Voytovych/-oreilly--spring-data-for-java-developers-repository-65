@@ -1,0 +1,37 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0500\0508 Limiting Results\Limiting Query Results
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Application
+   │   │   │               ├Book
+   │   │   │               ├BookRepository
+   │   │   │               ├BookService
+   │   │   │               ├BookUtil
+   │   │   │               └ReadOnlyRepository
+   │   │   └[resources]
+   │   │       │
+   │   │       ├application-context
+   │   │       ├init
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   └pom
